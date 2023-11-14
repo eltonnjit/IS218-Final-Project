@@ -13,4 +13,6 @@
 | Dec 7, 2023 |                |                  |
 | Dec 12, 2023|                |                  | 
 
-Competitve Analysis- 
+Schedule- Mondays and Thursdays 10:30am-11:30am
+
+Business Analysis- https://docs.google.com/document/d/1jYcgp0Qc4OxF1s5Bk2Sb5a-TRNa_YEI8bR0jkq0hX3A/edit
