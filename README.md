@@ -26,18 +26,18 @@ Persona: Max like and plays varsity basketball and has done so since he was 4 ye
 Sales Funnel:
 Awareness:  This business address points including basketballs, production summary, and content of the basketballs we are selling along with promotions and likeability. Social Media Content that engages buyers why they should purchase this product compared to other brands. This is where the user will find our website when looking up basketballs for purchase. 
 
-Interest:  A hero text and image that conveys an athlete with the basketball product. Creating a pop-up with promotions that the users will get on their first order, along with other purchases. 
+Interest:  A hero text and image that conveys an athlete with the basketball product. Creating cards with promotions and limited time offers that the users will get on their first order, along with other purchases. 
 
 Action: Sales page with price tags and pictures and descriptions of the specific product. User-friendly stores that many people can use very easily. 
 
 Loyalty:  An email promotion is sent after inserting your email address that offers you 50% off of your first order involving the purchase of a basketball. The promotion coupon is available within 20 days of inserting your email for it.  
 
 Top Level User Stories
-Initiative:  Joey is looking for a new Italian restaurant that's fun to go to and doesn't seem too expensive or serious.  
+Initiative:  Max is looking for a new basketball to practice with that is not too expensive.  
 
 Epic (Awareness) :  Max searches online for "Basketballs for Sale"
 
-Epic (Interest):  Joey arrives at the homepage and is convinced that he wants to go to the "Baller Beasts" by the basketball player imagery (likability), and sees that there is an offer for 50% off your first basketball order and that there is a buy one get one promotion (reciprocity) for basketballs. 
+Epic (Interest):  Max arrives at the homepage and is convinced that he wants to go to the "Baller Beasts" by the basketball player imagery (likability), and sees that there is an offer for 50% off your first basketball order and that there is a buy one get one promotion (reciprocity) for basketballs. 
 
 Epic (Action): Max sees that he has to link his email to signup for the coupon for the 50% off his first order. 
 
@@ -60,3 +60,5 @@ Max sees the description of the Baller Beasts first order promotion in the searc
 Action: The search result description says "Get 50% off your first order including one of our men sized basketballs."
 
 Result: Applys for the promotion coupon code by pushing his email address. 
+
+Figma- https://www.figma.com/file/KcbzAUEZlJ4Akl9uAyCarO/NextUI-Figma-Kit-(Community)-(Community)?type=design&node-id=0-1&mode=design&t=LfHCf3RsaA7V1LGs-0
