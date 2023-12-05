@@ -7,8 +7,8 @@
 | Nov 16, 2023|      x          |      x            |
 | Nov 21, 2023|      x          |       x           |
 | Nov 23, 2023|       x         |         x         |
-| Nov 28, 2023|                |       x           |
-| Nov 30, 2023|                |        x          |
+| Nov 28, 2023|      x          |       x           |
+| Nov 30, 2023|       x         |        x          |
 | Dec 5, 2023 |                |                  |
 | Dec 7, 2023 |                |                  |
 | Dec 12, 2023|                |                  | 
@@ -24,11 +24,11 @@ My business is a basketball website where we specialize in selling basketballs. 
 Persona: Max like and plays varsity basketball and has done so since he was 4 years old. With being interested in buying a basketball, he cannot buy any basketball. Basketballs comes in different shapes and sizes. For Max, he needs to buy the traditional men size basketballs to practice with and he cannot afford them. Outside of practice, he focuses on his academics and basketball workouts throughout the rest of his evenings. Max is interested in buying a basketball that is affordable no matter the condition just to practice on his own. 
 
 Sales Funnel:
-Awareness:  This business address points including basketballs, production summary, and content of the basketballs we are selling along with promotions and likeability. Social Media Content that engages buyers why they should purchase this product compared to other brands. This is where the user will find our website when looking up basketballs for purchase. 
+Awareness:  This business address points including basketballs, production summary, and content of the basketballs we are selling along with promotions and likeability. This is where the user will find our website when looking up basketballs for purchase. 
 
 Interest:  A hero text and image that conveys an athlete with the basketball product. Creating cards with promotions and limited time offers that the users will get on their first order, along with other purchases. 
 
-Action: Sales page with price tags and pictures and descriptions of the specific product. User-friendly stores that many people can use very easily. 
+Action: Webpage with offers and promotions to sign up for and pictures and hero texts of product inside cards. 
 
 Loyalty:  An email promotion is sent after inserting your email address that offers you 50% off of your first order involving the purchase of a basketball. The promotion coupon is available within 20 days of inserting your email for it.  
 
