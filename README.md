@@ -10,7 +10,7 @@
 | Nov 28, 2023|      x          |       x           |
 | Nov 30, 2023|       x         |        x          |
 | Dec 5, 2023 |      x          |            x      |
-| Dec 7, 2023 |                |                  |
+| Dec 7, 2023 |     x           |         x         |
 | Dec 12, 2023|                |                  | 
 
 Schedule- Mondays and Thursdays 10:30am-11:30am
