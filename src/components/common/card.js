@@ -1,8 +1,9 @@
 // card.js
 import React from "react";
+import Button from "./Button";
 
 const card = () => {
-  // Your button component logic
+  <Button/>
 };
 
 export default card;
