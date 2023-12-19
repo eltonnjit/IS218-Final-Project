@@ -63,4 +63,6 @@ Result: Applys for the promotion coupon code by pushing his email address.
 
 Figma- https://www.figma.com/file/KcbzAUEZlJ4Akl9uAyCarO/NextUI-Figma-Kit-(Community)-(Community)?type=design&node-id=0-1&mode=design&t=LfHCf3RsaA7V1LGs-0
 
-Presentation Video Recording 12/19 
+Presentation Video Recording 12/19: file:///C:/Users/elton/OneDrive/Desktop/IS%20218%20Final%20Presentation.mp4
+
+
