@@ -62,3 +62,5 @@ Action: The search result description says "Get 50% off your first order includi
 Result: Applys for the promotion coupon code by pushing his email address. 
 
 Figma- https://www.figma.com/file/KcbzAUEZlJ4Akl9uAyCarO/NextUI-Figma-Kit-(Community)-(Community)?type=design&node-id=0-1&mode=design&t=LfHCf3RsaA7V1LGs-0
+
+Presentation Video Recording 12/19 
