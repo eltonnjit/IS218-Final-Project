@@ -65,4 +65,5 @@ Figma- https://www.figma.com/file/KcbzAUEZlJ4Akl9uAyCarO/NextUI-Figma-Kit-(Commu
 
 Presentation Video Recording 12/19: file:///C:/Users/elton/OneDrive/Desktop/IS%20218%20Final%20Presentation.mp4
 
+Vercel Site Link: https://is-218-final-project.vercel.app/
 
